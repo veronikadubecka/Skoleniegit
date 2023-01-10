@@ -1,3 +1,3 @@
-#jahodka
 #jahoda je sladka
-#cervena, biela, modra
+#cervena, biela, ruzova
+
