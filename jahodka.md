@@ -2,3 +2,4 @@
 #cervena, biela, ruzova
 jooj cervena jahodka
 takze jablka su hnusne hej??
+Podla mna nie. - Anett
