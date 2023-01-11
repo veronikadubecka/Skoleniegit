@@ -2,3 +2,4 @@
 #cervena, biela, ruzova
 *mnam
 **mnam cervena jahoda**
+cervena
